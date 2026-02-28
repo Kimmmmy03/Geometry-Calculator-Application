@@ -5,7 +5,7 @@ This project is created and maintained by
 
 - **Akmal Hakimi bin Abd Rashid**  
 - **Muhammad Irfan Mikael bin Radzuan**
-- **Chan Boon Hong**
+<u>[Chan Boon Hong](https://github.com/mrnothing00)</u>
 - **Muhammad Haziq Haikal bin Hasmi**
 
 ---
